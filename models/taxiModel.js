@@ -1,0 +1,1 @@
+//TaxiId / plateNumber / Model / status 
